@@ -1,6 +1,8 @@
-html {
+body {
+  background-color: beige;
   text-align: center;
 }
+
 img {
   width: 500px;
 }
@@ -20,5 +22,5 @@ li a {
   text-decoration: none;
   float: center;
   padding: 20px;
-  color: black;
+  color: purple;
 }
